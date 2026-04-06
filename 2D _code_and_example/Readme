@@ -1,2 +1,2 @@
-To run this code, put all the python and bash codes in this specific folder, install all dependencies, 
+To run this code for the gaussian accretion model, put all the python and bash codes in this specific folder, install all dependencies, 
 and run the submit_dedalus_get_movie.sh with ssh command: sbatch submit_dedalus_get_movie.sh.
