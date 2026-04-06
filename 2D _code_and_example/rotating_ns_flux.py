@@ -59,8 +59,8 @@ B = 1e4 # for uphi
 mu = np.pi/2 # center at equator
 sigma = 0.3 # width of Gaussian
 
-SIM_T = 50*60 #seconds
-SIM_DT = 5e-1
+SIM_T = 100*60 #seconds
+SIM_DT = 1
 
 
 #---setup the physical quantities---
